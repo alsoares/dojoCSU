@@ -24,12 +24,13 @@ R: 1 vez
 Logo a linha seguinte será?
 
 1 X
+pois aparece o elemento "X" apenas uma vez
 
 
 A próxima sequencia vai ser
 
 1 1 1 X
-pois aparece o elemento 1 apenas uma vez e o elemento X apenas uma vez
+pois aparece o elemento "1" apenas uma vez e o elemento "X" apenas uma vez
 
 
 Formato: [quantidade_de_elementos][elemento]
