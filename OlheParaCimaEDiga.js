@@ -15,11 +15,11 @@ function OlheParaCimaEDiga(sequenciaAtual, quantidadeDeLinhas)
 
 	for(var i = 0; i < sequenciaAtual.length; i++){
 	
-		var elementoAtual = sequenciaAtual[i]; // 1
+		var elementoAtual = sequenciaAtual[i]; 
 
 		while(elementoAtual == sequenciaAtual[indexDePosicoes]){
 			
-			indexDePosicoes++; //1
+			indexDePosicoes++; 
 			quantidadeDeRepeticoes++;	
 		}
 		if (quantidadeDeRepeticoes > 0)
