@@ -1,4 +1,4 @@
-# dojoCSU
+# dojo CSU
 
 O problema proposto: "Olhe para cima e Diga"
 
